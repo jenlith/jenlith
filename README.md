@@ -31,6 +31,11 @@
 [Github][2]  
 Outlook: jlithgow@uoguelph.ca  
 
+## More Than Code? (⊙.⊙)
+* Dungeons & Dragons
+* Visual Arts
+* Creative Writing Minor
+
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="200" height="200"/>  
 
