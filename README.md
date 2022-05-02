@@ -1,20 +1,29 @@
 # (￣︶￣)づ Greetings 
 ## The Basics ～(￣▽￣～)
-* Jennifer Lithgow  
-* University of Guelph  
-* Software Engineering  
-  * Coop and Creative Writing Minor  
+> Name: Jennifer Lithgow  
+> School: University of Guelph  
+> Program: Software Engineering
+> I love to create!
 
-## Work Experience
+## Work Experience /ᐠ｡ꞈ｡ᐟ\
 * Ministry of Government and Consumer Services  
   * Rapid Prototype Design Unit  
 
-## The Known Code
+## (^◕.◕^) The Known Code 
+`C`  
+`Java`  
+`Fortran`  
+`Cobol`  
+`Ada`  
+`Assembly`  
 
-## Connect
+## （￣︶￣）↗ Connect 
+Linkedin  
+Github  
+Outlook  
 
 <!--
-(￣_,￣ )（￣︶￣）↗　(～￣▽￣)～（*＾-＾*）(づ￣ 3￣)づ
+(￣_,￣ )（￣︶￣）↗　(～￣▽￣)～（*＾-＾*）(づ￣ 3￣)づ (^◕.◕^)
 **jenlith/jenlith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
