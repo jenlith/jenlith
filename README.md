@@ -9,13 +9,22 @@
 * Ministry of Government and Consumer Services  
   * Rapid Prototype Design Unit  
 
-## (^◕.◕^) The Known Code 
-`C`  
+## (^◕.◕^) Knowledge
+### Languages
+`C`
 `Java`  
-`Fortran`  
-`Cobol`  
+`Fortran`
+`Cobol`
 `Ada`  
 `Assembly`  
+### Tools
+`VSCode`
+`Debian`
+`Repl.it`
+`GitHub`
+`Netbeans`
+`Trello`
+`Figma`
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
@@ -26,7 +35,7 @@ Outlook: jlithgow@uoguelph.ca
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="200" height="200"/>  
 
 [find more expressions here][3]  
-and enjoy your day
+
 
 [1]:https://www.linkedin.com/in/j-lithgow/
 [2]:https://github.com/jenlith
