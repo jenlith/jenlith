@@ -22,7 +22,12 @@ Linkedin
 Github  
 Outlook  
 
+# Have a lovely day!
+<img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="200" height="200"/>  
+[find more expressions here](https://sillemojis.tumblr.com)
+
 <!--
+[there's more of those emojis here](https://sillemojis.tumblr.com/)  
 (￣_,￣ )（￣︶￣）↗　(～￣▽￣)～（*＾-＾*）(づ￣ 3￣)づ (^◕.◕^)
 **jenlith/jenlith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
