@@ -18,14 +18,19 @@
 `Assembly`  
 
 ## （￣︶￣）↗ Connect 
-Linkedin  
-Github  
-Outlook  
+[Linkedin][1]  
+[Github][2]  
+Outlook: jlithgow@uoguelph.ca  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="200" height="200"/>  
-[find more expressions here](https://sillemojis.tumblr.com)
 
+[find more expressions here][3]  
+and enjoy your day
+
+[1]:https://www.linkedin.com/in/j-lithgow/
+[2]:https://github.com/jenlith
+[3]:https://sillemojis.tumblr.com
 <!--
 [there's more of those emojis here](https://sillemojis.tumblr.com/)  
 (￣_,￣ )（￣︶￣）↗　(～￣▽￣)～（*＾-＾*）(づ￣ 3￣)づ (^◕.◕^)
