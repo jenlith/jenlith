@@ -29,7 +29,7 @@
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
 [Github][2]  
-Outlook: jlithgow@uoguelph.ca  
+[Outlook][3]
 
 ## More Than Code? (⊙.⊙)
 * Dungeons & Dragons
@@ -37,14 +37,16 @@ Outlook: jlithgow@uoguelph.ca
 * Creative Writing Minor
 
 # Have a lovely day!
-<img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="200" height="200"/>  
+<img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
 
-[find more expressions here][3]  
+[find more expressions here][4]  
 
 
 [1]:https://www.linkedin.com/in/j-lithgow/
 [2]:https://github.com/jenlith
-[3]:https://sillemojis.tumblr.com
+[3]:jlithgow@uoguelph.ca
+[4]:https://sillemojis.tumblr.com
+
 <!--
 [there's more of those emojis here](https://sillemojis.tumblr.com/)  
 (￣_,￣ )（￣︶￣）↗　(～￣▽￣)～（*＾-＾*）(づ￣ 3￣)づ (^◕.◕^)
