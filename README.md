@@ -25,6 +25,8 @@
 `Netbeans`
 `Trello`
 `Figma`
+`Power Apps`
+`Power Automate`
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
