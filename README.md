@@ -32,7 +32,7 @@
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
 [Github][2]  
-[Outlook][3]
+[Outlook](jlithgow@uoguelph.ca)
 
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
