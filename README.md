@@ -35,9 +35,9 @@
 [Outlook][3]
 
 ## More Than Code? (⊙.⊙)
-> Dungeons & Dragons
-> Visual Arts
-> Creative Writing Minor
+> Dungeons & Dragons  
+> Visual Arts  
+> Creative Writing Minor  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
