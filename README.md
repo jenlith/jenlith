@@ -11,23 +11,11 @@
 
 ## (^◕.◕^) Knowledge
 ### Languages
-`C`
-`Java`  
-`Fortran`
-`Cobol`
-`Ada`  
+`C` `Java`  
+`Fortran` `Cobol` `Ada`  
 `Assembly`  
 ### Tools
-`VSCode`
-`Debian`
-`Repl.it`
-`GitHub`
-`Netbeans`
-`Trello`
-`Figma`
-`Power Apps`
-`Power Automate`
-`Appian`
+`VSCode` `Debian` `Repl.it` `GitHub` `Netbeans` `Trello` `Figma` `Power Apps` `Power Automate` `Appian`
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
