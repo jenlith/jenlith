@@ -2,7 +2,8 @@
 ## The Basics ～(￣▽￣～)
 > Name: Jennifer Lithgow  
 > School: University of Guelph  
-> Program: Software Engineering
+> Major: Software Engineering
+> Minor: Creative Writing  
 > I love to create!
 
 ## Work Experience /ᐠ｡ꞈ｡ᐟ\
@@ -15,7 +16,11 @@
 `Fortran` `Cobol` `Ada`  
 `Assembly`  
 ### Tools
-`VSCode` `Debian` `Repl.it` `GitHub` `Netbeans` `Trello` `Figma` `Power Apps` `Power Automate` `Appian`
+`Debian`  
+`GitHub`  
+`VSCode` `Repl.it` `Netbeans`  
+`Trello` `Figma`  
+`Power Apps` `Power Automate` `Appian`  
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
@@ -25,7 +30,7 @@
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
 > Visual Arts  
-> Creative Writing Minor  
+> Writing Fiction  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
