@@ -2,7 +2,7 @@
 ## The Basics ～(￣▽￣～)
 > Name: Jennifer Lithgow  
 > School: University of Guelph  
-> Major: Software Engineering
+> Major: Software Engineering  
 > Minor: Creative Writing  
 > I love to create!
 
