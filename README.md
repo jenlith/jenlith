@@ -27,10 +27,14 @@
 [Github][2]  
 [Outlook](mailto:jlithgow@uoguelph.ca)
 
+## Possible Projects ☆o(゜▽゜o)  
+* Discord Music Bot
+
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
 > Visual Arts  
 > Writing Fiction  
+> Identifying plants and animals  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
