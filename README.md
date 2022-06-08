@@ -20,7 +20,7 @@
 `GitHub`  
 `VSCode` `Repl.it` `Netbeans`  
 `Trello` `Figma`  
-`Power Apps` `Power Automate` `Appian`  
+`Power Apps` `Power Automate` `Appian (Developer)`  
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
