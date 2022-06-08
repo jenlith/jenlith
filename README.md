@@ -12,13 +12,13 @@
 
 ## (^◕.◕^) Knowledge
 ### Languages
-`C` `Java`  
+`C` `C#` `Java` `Python`   
 `Fortran` `Cobol` `Ada`  
 `Assembly`  
 ### Tools
 `Debian`  
 `GitHub`  
-`VSCode` `Repl.it` `Netbeans`  
+`VSCode` `Visual Studio` `Repl.it` `Netbeans`  
 `Power Apps` `Power Automate` `Appian (Developer)`  
 `Trello` `Figma`  
 
