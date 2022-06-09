@@ -28,7 +28,8 @@
 [Outlook](mailto:jlithgow@uoguelph.ca)
 
 ## Possible Projects ☆o(゜▽゜o)  
-* Discord Music Bot
+* Discord Music Bot  
+* Portfolio site  
 
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
