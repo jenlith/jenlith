@@ -30,6 +30,8 @@
 ## Possible Projects ☆o(゜▽゜o)  
 * Discord Music Bot  
 * Portfolio site  
+* Android game app
+* General goal: making tech accessible
 
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
