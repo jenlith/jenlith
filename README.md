@@ -31,6 +31,7 @@
 * Discord Music Bot  
 * Portfolio site  
 * Android game app
+* Minesweeper Co-op
 * General goal: making tech accessible
 
 ## More Than Code? (⊙.⊙)
