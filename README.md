@@ -28,13 +28,13 @@
 [Outlook](mailto:jlithgow@uoguelph.ca)
 
 ## Projects ☆o(゜▽゜o)  
-###Ideas
+### Ideas
 * Discord Music Bot  
 * Android game app
 * Minesweeper Co-op
 * General goal: making tech accessible  
-###In Progress
-* Portfolio site  
+### In Progress
+* Portfolio site ([here](https://jenlith.github.io/))  
 
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
