@@ -27,12 +27,14 @@
 [Github][2]  
 [Outlook](mailto:jlithgow@uoguelph.ca)
 
-## Possible Projects ☆o(゜▽゜o)  
+## Projects ☆o(゜▽゜o)  
+###Ideas
 * Discord Music Bot  
-* Portfolio site  
 * Android game app
 * Minesweeper Co-op
-* General goal: making tech accessible
+* General goal: making tech accessible  
+###In Progress
+* Portfolio site  
 
 ## More Than Code? (⊙.⊙)
 > Dungeons & Dragons  
