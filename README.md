@@ -18,13 +18,13 @@
 ### Tools
 `Debian`  
 `GitHub`  
-`VSCode` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
+`Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
 `Power Apps` `Power Automate` `Appian (Developer)`  
-`Trello` `Figma`  
+`Trello` `Figma` `Miro`  
 
 ## （￣︶￣）↗ Connect 
 [Linkedin][1]  
-[Github][2]  
+[Github (That's here!)][2]  
 [Outlook](mailto:jlithgow@uoguelph.ca)
 
 ## Projects ☆o(゜▽゜o)  
@@ -45,13 +45,12 @@
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
 
-[find more expressions here][4]  
+[find more expressions here](https://sillemojis.tumblr.com)  
 
 
 [1]:https://www.linkedin.com/in/j-lithgow/
 [2]:https://github.com/jenlith
 [3]:jlithgow@uoguelph.ca
-[4]:https://sillemojis.tumblr.com
 
 <!--
 
