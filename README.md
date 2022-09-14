@@ -45,7 +45,7 @@
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
 
-[find more expressions here](https://sillemojis.tumblr.com)  
+[Find more expressions here](https://sillemojis.tumblr.com)  
 
 
 [1]:https://www.linkedin.com/in/j-lithgow/
