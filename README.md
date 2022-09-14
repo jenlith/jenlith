@@ -34,7 +34,7 @@
 * Minesweeper Co-op
 * General goal: making tech accessible  
 ### In Progress
-* Portfolio site ([here](https://jenlith.github.io/))  
+* Portfolio site <!--([here](https://jenlith.github.io/))-->  
 
 ## More Than Code? (⊙.⊙)
 I enjoy:  
