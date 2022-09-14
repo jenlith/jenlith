@@ -37,9 +37,11 @@
 * Portfolio site ([here](https://jenlith.github.io/))  
 
 ## More Than Code? (⊙.⊙)
+I enjoy:  
 > Dungeons & Dragons  
 > Visual Arts  
 > Writing Fiction  
+> Reading books and listening to podcasts  
 > Identifying plants and animals  
 
 # Have a lovely day!
