@@ -32,7 +32,8 @@
 * Discord Music Bot  
 * Android game app
 * Minesweeper Co-op
-* General goal: making tech accessible  
+* General goal: help make the internet accessible  
+<!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
 * Portfolio site <!--([here](https://jenlith.github.io/))-->  
 
