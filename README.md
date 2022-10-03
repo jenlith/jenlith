@@ -12,7 +12,7 @@
 
 ## (^◕.◕^) Knowledge
 ### Languages
-`C` `HTML` `Java` `C#` `Python`   
+`C` `HTML5` `Java` `C#` `Python`   
 `Fortran` `Cobol` `Ada`  
 `Assembly`  
 ### Tools
