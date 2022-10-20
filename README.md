@@ -1,10 +1,10 @@
 # (￣︶￣)づ Greetings 
 ## The Basics ～(￣▽￣～)
-> Name: Jennifer Lithgow  
-> School: University of Guelph  
-> Major: Software Engineering  
-> Minor: Creative Writing  
-> I love to create!
+**Name:** Jennifer Lithgow  
+**School:** University of Guelph  
+**Major:** Software Engineering  
+**Minor:** Creative Writing  
+I love to create!
 
 ## Work Experience /ᐠ｡ꞈ｡ᐟ\
 * Ministry of Government and Consumer Services  
@@ -22,7 +22,7 @@
 `Power Apps` `Power Automate` `Appian (Developer)`  
 `Trello` `Figma` `Miro`  
 
-## （￣︶￣）↗ Connect 
+## (￣︶￣）↗ Connect 
 [Linkedin][1]  
 [Github (That's here!)][2]  
 [Outlook](mailto:jlithgow@uoguelph.ca)
@@ -31,7 +31,7 @@
 ### Ideas
 * Discord Music Bot  
 * Android game app
-* Minesweeper Co-op
+* Minesweeper co-op or competitive
 * General goal: help make the internet accessible  
 <!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
@@ -44,6 +44,7 @@ I enjoy:
 > Writing Fiction  
 > Reading books and listening to podcasts  
 > Identifying plants and animals  
+> Learning through others (such as [Answer in Progress](https://www.youtube.com/c/answerinprogress/featured)) for different perspectives  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
