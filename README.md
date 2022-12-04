@@ -33,9 +33,9 @@ I love to create!
 * Android game app
 * Minesweeper co-op or competitive
 * General goal: help make the internet accessible  
-<!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 * Auxiliary software to a board game (handling more complex or tedious tasks)  
 * Chess vs. an AI/chess engine on a physical board
+<!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
 * Portfolio site <!--([here](https://jenlith.github.io/))-->  
 
