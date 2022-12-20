@@ -9,18 +9,21 @@ I love to create!
 ## Work Experience /ᐠ｡ꞈ｡ᐟ\
 * Ministry of Public and Business Service Delivery (MPBSD), formerly Ministry of Government and Consumer Services (MGCS)  
   * Rapid Prototype Design Unit  
+  * May-December 2022 co-op work term  
+  * Learned and worked with low code and custom code to develop applications and websites  
+  * Learned how to incorporate accessibility into web development  
 
 ## (^◕.◕^) Knowledge
 ### Languages
-`C` `HTML5` `Java` `C#` `Python`   
+`C` `HTML5` `C#` `CSS` `Java` `Python`   
 `Fortran` `Cobol` `Ada`  
-`Assembly`  
+`Assembly (68000 microprocessor)`  
 ### Tools
-`Debian`  
-Code: `Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
-Low Code: `Power Apps` `Power Automate` `Appian (Developer)`  
-#### Collaborating, Prototyping and Documenting  
-`GitHub` `Trello` `Figma` `Miro`  
+<strong>Linux command line: </strong> `Debian`  
+<strong>Code: </strong> `Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
+<strong>Low Code: </strong> `Microsoft Power Platform (Power Apps, Power Automate)` `Appian (Developer)`  
+<strong>Collaborating, Prototyping and Documenting: </strong> `GitHub` `Trello` `Figma` `Miro`  
+<strong>API testing: </strong> `Postman`
 
 ## (￣︶￣）↗ Connect 
 [Linkedin][1]  
@@ -34,7 +37,7 @@ Low Code: `Power Apps` `Power Automate` `Appian (Developer)`
 * Minesweeper co-op or competitive
 * General goal: help make the internet accessible  
 * Auxiliary software to a board game (handling more complex or tedious tasks)  
-* Chess vs. an AI/chess engine on a physical board
+* Chess vs. an AI/chess engine on a physical board (collaborative work)
 <!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
 * Portfolio site <!--([here](https://jenlith.github.io/))-->  
@@ -46,7 +49,7 @@ I enjoy:
 > Writing Fiction  
 > Reading books and listening to podcasts  
 > Identifying plants and animals  
-> Learning through others (such as [Answer in Progress](https://www.youtube.com/c/answerinprogress/featured)) for different perspectives  
+> Learning through others (such as [Answer in Progress](https://www.youtube.com/c/answerinprogress/featured) or [Defunctland](https://www.youtube.com/@Defunctland)) for different perspectives and expanded knowledge  
 
 # Have a lovely day!
 <img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
