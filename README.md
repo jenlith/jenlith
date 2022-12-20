@@ -17,10 +17,10 @@ I love to create!
 `Assembly`  
 ### Tools
 `Debian`  
-`GitHub`  
-`Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
-`Power Apps` `Power Automate` `Appian (Developer)`  
-`Trello` `Figma` `Miro`  
+Code: `Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
+Low Code: `Power Apps` `Power Automate` `Appian (Developer)`  
+#### Collaborating, Prototyping and Documenting  
+`GitHub` `Trello` `Figma` `Miro`  
 
 ## (￣︶￣）↗ Connect 
 [Linkedin][1]  
