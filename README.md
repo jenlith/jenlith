@@ -57,7 +57,7 @@ I enjoy:
 [Find more expressions here](https://sillemojis.tumblr.com)  
 
 
-[1]:https://www.linkedin.com/in/j-lithgow/
+[1]:https://www.linkedin.com/in/jenlithgow/
 [2]:https://github.com/jenlith
 [3]:jlithgow@uoguelph.ca
 
