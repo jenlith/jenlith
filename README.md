@@ -40,7 +40,7 @@ I love to create!
 * Chess vs. an AI/chess engine on a physical board (collaborative work)
 <!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
-* Portfolio site <!--([here](https://jenlith.github.io/))-->  
+* Portfolio site, which currently contains a [Work Term Report for an 8-month 2022 co-op term](https://jenlith.github.io/Pages/rpdu2022)
 
 ## More Than Code? (⊙.⊙)
 I enjoy:  
