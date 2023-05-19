@@ -10,7 +10,7 @@ I love to create!
 * NCR
   * Software Developer
   * May-August 2023 co-op work term
-  * Working with fullstack development
+  * Debugging and resolving issues encountered in fullstack development
 
 * Ministry of Public and Business Service Delivery (MPBSD), formerly Ministry of Government and Consumer Services (MGCS)  
   * Rapid Prototype Design Unit  
