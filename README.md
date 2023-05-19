@@ -7,6 +7,11 @@
 I love to create!
 
 ## Work Experience /ᐠ｡ꞈ｡ᐟ\
+* NCR
+  * Software Developer
+  * May-August 2023 co-op work term
+  * Working with fullstack development
+
 * Ministry of Public and Business Service Delivery (MPBSD), formerly Ministry of Government and Consumer Services (MGCS)  
   * Rapid Prototype Design Unit  
   * May-December 2022 co-op work term  
@@ -15,14 +20,14 @@ I love to create!
 
 ## (^◕.◕^) Knowledge
 ### Languages
-`C` `HTML5` `C#` `CSS` `Java` `Python`   
+`C` `HTML5` `CSS` `JavaScript` `Java` `Python` `C#` `SQL`   
 `Fortran` `Cobol` `Ada`  
 `Assembly (68000 microprocessor)`  
 ### Tools
 <strong>Linux command line: </strong> `Debian`  
-<strong>Code: </strong> `Visual Studio Code (VSCode)` `Visual Studio` `IntelliJ` `Repl.it` `Netbeans`  
+<strong>Code: </strong> `Visual Studio Code (VSCode)` `Visual Studio` `MyEclipse` `IntelliJ` `Repl.it` `Netbeans`  
 <strong>Low Code: </strong> `Microsoft Power Platform (Power Apps, Power Automate)` `Appian (Developer)`  
-<strong>Collaborating, Prototyping and Documenting: </strong> `GitHub` `Trello` `Figma` `Miro`  
+<strong>Collaborating, Prototyping and Documenting: </strong> `GitHub` `Jira` `Trello` `Figma` `Miro`  
 <strong>API testing: </strong> `Postman`
 
 ## (￣︶￣）↗ Connect 
