@@ -51,11 +51,9 @@ I enjoy:
 > Identifying plants and animals  
 > Learning through others (such as [Answer in Progress](https://www.youtube.com/c/answerinprogress/featured) or [Defunctland](https://www.youtube.com/@Defunctland)) for different perspectives and expanded knowledge  
 
-# Have a lovely day!
-<img src="https://github.com/jenlith/jenlith/blob/main/sillemojis%20eeeh%20positive.png" width="150" height="150"/>  
-
-[Find more expressions here](https://sillemojis.tumblr.com)  
-
+<p style="font:18pt;">
+ <strong>Have a lovely day!</strong>
+</p>
 
 [1]:https://www.linkedin.com/in/jenlithgow/
 [2]:https://github.com/jenlith
