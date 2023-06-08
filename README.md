@@ -63,12 +63,11 @@ I love to create!
 [Linkedin][1]  
 [Github (That's here!)][2]  
 [Outlook](mailto:jlithgow@uoguelph.ca)
-
 <!-- <img src="https://komarev.com/ghpvc/?username=jenlith&label=Profile%20views&color=0e75b6&style=flat" alt="jenlith profile views" /> -->
 <!--
 <a href="https://linkedin.com/in/jinlingcai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jinlingcai" height="30" width="40" /></a>
  -->
-
+ 
 ## Projects ☆o(゜▽゜o)  
 ### Ideas
 * Discord Music Bot  
@@ -94,26 +93,24 @@ I enjoy:
 <p style="font:18pt;">
  <strong>Have a lovely day!</strong>
 </p>
-
-[1]:https://www.linkedin.com/in/jenlithgow/
-[2]:https://github.com/jenlith
-[3]:jlithgow@uoguelph.ca
-
 <!--
 github stats
 resource: https://www.jasongaylord.com/blog/2020/10/28/implementing-github-readme-statistics
 resource: https://github.com/jasongaylord/github-stats/
 resource: https://github.com/anuraghazra/github-readme-stats
 -->
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jenlith&count_private=true&theme=discord_old_blurple&hide=contribs,prs" width="490"  height="300">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenlith&count_private=true&theme=discord_old_blurple&layout=compact" alt="Top Langs" width="300" height="300">
 </div>
+
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jenlith&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jenlith&langs_count=5&theme=tokyonight)]()
 -->
+[1]:https://www.linkedin.com/in/jenlithgow/
+[2]:https://github.com/jenlith
+[3]:jlithgow@uoguelph.ca
 
 <!--
 
