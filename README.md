@@ -43,10 +43,10 @@ I love to create!
 -->
 
 ### Tools
-<strong>Linux command line: </strong> `Debian`  
+<strong>Linux command line: </strong> `Debian` `Ubuntu`  
 <strong>Code: </strong> `Visual Studio Code (VSCode)` `Visual Studio` `MyEclipse` `IntelliJ` `Repl.it` `Netbeans`  
 <strong>Low Code: </strong> `Microsoft Power Platform (Power Apps, Power Automate)` `Appian (Developer)`  
-<strong>Collaborating, Prototyping and Documenting: </strong> `GitHub` `Jira` `Trello` `Figma` `Miro`  
+<strong>Collaborating, Prototyping and Documenting: </strong> `GitHub` `Jira` `Confluence` `Trello` `Figma` `Miro`  
 <strong>API testing: </strong> `Postman`
 <!--
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
