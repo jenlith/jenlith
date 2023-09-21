@@ -76,6 +76,7 @@ I love to create!
 * Auxiliary software to a board game (handling more complex or tedious tasks)  
 * Personal notes application  
   * Desired features: offline, keyboard accessible, and screen-reader friendly
+* Learn functional programming
 <!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
 * Portfolio site, which currently contains a [Work Term Report for an 8-month 2022 co-op term](https://jenlith.github.io/Pages/rpdu2022)
