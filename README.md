@@ -79,7 +79,7 @@ I love to create!
 * Learn functional programming
 <!-- https://en.m.wikipedia.org/wiki/Esoteric_programming_language -->
 ### In Progress
-* Portfolio site, which currently contains a [Work Term Report for an 8-month 2022 co-op term](https://jenlith.github.io/Pages/rpdu2022)
+* Portfolio site, which currently contains my [Work Term Reports for multiple co-op terms](https://jenlith.github.io/)
 * Chess: human vs. an AI/chess engine on a physical board ([collaborative work](https://github.com/jenlith/Chess-AIRL) - currently exploratory)
 <!--<a href="https://github.com/jenlith?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>-->
 
